@@ -1,0 +1,15 @@
+C:\Projetos\desafio-backend\src\main\java\com\usercase\contas\infrastructure\configuration\SecurityConfig.java
+C:\Projetos\desafio-backend\src\main\java\com\usercase\contas\domain\service\CSVParser.java
+C:\Projetos\desafio-backend\src\main\java\com\usercase\contas\infrastructure\configuration\Docket.java
+C:\Projetos\desafio-backend\src\main\java\com\usercase\contas\domain\service\ContaService.java
+C:\Projetos\desafio-backend\src\main\java\com\usercase\contas\domain\service\impl\ContaServiceImpl.java
+C:\Projetos\desafio-backend\src\main\java\com\usercase\contas\controller\ImportController.java
+C:\Projetos\desafio-backend\src\main\java\com\usercase\contas\infrastructure\configuration\EnableSwagger2.java
+C:\Projetos\desafio-backend\src\main\java\com\usercase\contas\controller\ContaController.java
+C:\Projetos\desafio-backend\src\main\java\com\usercase\contas\domain\model\Conta.java
+C:\Projetos\desafio-backend\src\main\java\com\usercase\contas\infrastructure\configuration\SwaggerConfig.java
+C:\Projetos\desafio-backend\src\main\java\com\usercase\contas\application\DesafioBackendApplication.java
+C:\Projetos\desafio-backend\src\main\java\com\usercase\contas\infrastructure\configuration\SWAGGER_2.java
+C:\Projetos\desafio-backend\src\main\java\com\usercase\contas\domain\service\CsvImportService.java
+C:\Projetos\desafio-backend\src\main\java\com\usercase\contas\domain\service\CSVRecord.java
+C:\Projetos\desafio-backend\src\main\java\com\usercase\contas\domain\repository\ContaRepository.java
