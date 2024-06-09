@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/mydb
-    username: admin
-    password: admin
+    url: jdbc:postgresql://localhost:5432/postgres/contas
+    username: postgres
+    password: postgres
     driver-class-name: org.postgresql.Driver
   jpa:
     properties:
@@ -11,8 +11,10 @@ spring:
 
 flyway:
   enabled: true
-  url: jdbc:postgresql://localhost:5432/mydb
-  user: admin
-  password: admin
+  url: jdbc:postgresql://localhost:5432/postgres/contas
+  user: postgres
+  password: postgres
   schemas: public
   locations: classpath:db/migration
+  volumes:
+    postgres_data:

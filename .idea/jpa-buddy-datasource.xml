@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="JpbDataSourceConfig">
-    <data-sources>
-      <data-source id="7aef08d0-6e95-40a6-a53d-1348bd365437" name="desafio-backend" url="jdbc:postgresql://localhost:5432/contas_db/desafio-backend" driverClass="org.postgresql.Driver" />
-    </data-sources>
-  </component>
-</project>
