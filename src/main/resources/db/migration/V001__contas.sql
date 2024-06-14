@@ -1,4 +1,4 @@
-create table if not exists contas (
+create table if not exists contas_a_pagar (
 	id SERIAL primary key,
 	data_vencimento DATE not null,
 	data_pagamento DATE,

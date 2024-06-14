@@ -1,9 +1,0 @@
-com\example\api\CrudPostgreApiApplication.class
-com\example\api\domain\service\BillToPayService.class
-com\example\api\domain\model\BillToPay.class
-com\example\api\infrastructure\exception\GenericException.class
-com\example\api\infrastructure\exception\ApiExceptionHandler.class
-com\example\api\infrastructure\exception\ApiExceptionHandler$Erro.class
-com\example\api\domain\repository\BillToPayRepository.class
-com\example\api\infrastructure\rest\BillToPayController.class
-com\example\api\infrastructure\security\WebSecurityConfig.class

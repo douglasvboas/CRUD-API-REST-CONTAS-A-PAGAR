@@ -1,8 +1,0 @@
-C:\Users\douglas\Desktop\PACKAGES\desafio\CRUD-API-REST-CONTAS-A-PAGAR\src\main\java\com\example\api\CrudPostgreApiApplication.java
-C:\Users\douglas\Desktop\PACKAGES\desafio\CRUD-API-REST-CONTAS-A-PAGAR\src\main\java\com\example\api\domain\model\BillToPay.java
-C:\Users\douglas\Desktop\PACKAGES\desafio\CRUD-API-REST-CONTAS-A-PAGAR\src\main\java\com\example\api\domain\repository\BillToPayRepository.java
-C:\Users\douglas\Desktop\PACKAGES\desafio\CRUD-API-REST-CONTAS-A-PAGAR\src\main\java\com\example\api\domain\service\BillToPayService.java
-C:\Users\douglas\Desktop\PACKAGES\desafio\CRUD-API-REST-CONTAS-A-PAGAR\src\main\java\com\example\api\infrastructure\exception\ApiExceptionHandler.java
-C:\Users\douglas\Desktop\PACKAGES\desafio\CRUD-API-REST-CONTAS-A-PAGAR\src\main\java\com\example\api\infrastructure\exception\GenericException.java
-C:\Users\douglas\Desktop\PACKAGES\desafio\CRUD-API-REST-CONTAS-A-PAGAR\src\main\java\com\example\api\infrastructure\rest\BillToPayController.java
-C:\Users\douglas\Desktop\PACKAGES\desafio\CRUD-API-REST-CONTAS-A-PAGAR\src\main\java\com\example\api\infrastructure\security\WebSecurityConfig.java

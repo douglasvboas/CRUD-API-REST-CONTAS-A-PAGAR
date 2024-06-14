@@ -31,6 +31,12 @@ Este projeto é uma API RESTful desenvolvida com Spring Boot que realiza operaç
 
 ## Configuração do Ambiente de Desenvolvimento
 
+- Abrir a pasta src/main/resources/docker/postgres e rodar os comandos:
+
+```bash
+docker build -t my-postgres .
+docker run -d -p 5432:5432 --name my-postgres-container my-postgres
+
 ### Clonar o Repositório
 
 ```bash
